@@ -1,0 +1,74 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+#!genome-build ASM985889v3
+#!genome-build-accession NCBI_Assembly:GCF_009858895.2
+##sequence-region NC_045512.2 1 29903
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+#!provider: Taejoon Kwon (2020_07)
+NC_045512.2	RefSeq	five_prime_UTR	1	265	.	+	.	ID=id-NC_045512.2:1..265;gbkey=5'UTR
+
+NC_045512.2	RefSeq	gene	266	21555	.	+	.	ID=gene-orf1ab;Name=orf1ab;gene=orf1ab;gene_biotype=protein_coding
+NC_045512.2	RefSeq	CDS	266	21555	.	+	0	ID=cds-orf1ab;Parent=gene-orf1ab;Name=orf1ab;gene=orf1ab;protein_id=YP_009724389.1;Note=pp1ab%3B translated by -1 ribosomal frameshift;exception=ribosomal slippage;product=orf1ab polyprotein
+NC_045512.2	RefSeq	CDS	266	805	.	+	0	ID=cds-orf1ab-nsp1;Parent=gene-orf1ab;Name=nsp1;gene=orf1ab
+NC_045512.2	RefSeq	CDS	806	2719	.	+	0	ID=cds-orf1ab-nsp2;Parent=gene-orf1ab;Name=nsp2;gene=orf1ab
+NC_045512.2	RefSeq	CDS	2720	8554	.	+	0	ID=cds-orf1ab-nsp3;Parent=gene-orf1ab;Name=nsp3;gene=orf1ab
+NC_045512.2	RefSeq	CDS	8555	10054	.	+	0	ID=cds-orf1ab-nsp4;Parent=gene-orf1ab;Name=nsp4;gene=orf1ab
+NC_045512.2	RefSeq	CDS	10055	10972	.	+	0	ID=cds-orf1ab-nsp5;Parent=gene-orf1ab;Name=nsp5;gene=orf1ab
+NC_045512.2	RefSeq	CDS	10973	11842	.	+	0	ID=cds-orf1ab-nsp6;Parent=gene-orf1ab;Name=nsp6;gene=orf1ab
+NC_045512.2	RefSeq	CDS	11843	12091	.	+	0	ID=cds-orf1ab-nsp7;Parent=gene-orf1ab;Name=nsp7;gene=orf1ab
+NC_045512.2	RefSeq	CDS	12092	12685	.	+	0	ID=cds-orf1ab-nsp8;Parent=gene-orf1ab;Name=nsp8;gene=orf1ab
+NC_045512.2	RefSeq	CDS	12686	13024	.	+	0	ID=cds-orf1ab-nsp9;Parent=gene-orf1ab;Name=nsp9;gene=orf1ab
+NC_045512.2	RefSeq	CDS	13025	13441	.	+	0	ID=cds-orf1ab-nsp10;Parent=gene-orf1ab;Name=nsp10;gene=orf1ab
+NC_045512.2	RefSeq	CDS	13441	16236	.	+	0	ID=cds-orf1ab-nsp12;Parent=gene-orf1ab;Name=nsp12;gene=orf1ab
+NC_045512.2	RefSeq	CDS	16237	18039	.	+	0	ID=cds-orf1ab-nsp13;Parent=gene-orf1ab;Name=nsp13;gene=orf1ab
+NC_045512.2	RefSeq	CDS	18040	19620	.	+	0	ID=cds-orf1ab-nsp14;Parent=gene-orf1ab;Name=nsp14;gene=orf1ab
+NC_045512.2	RefSeq	CDS	19621	20658	.	+	0	ID=cds-orf1ab-nsp15;Parent=gene-orf1ab;Name=nsp15;gene=orf1ab
+NC_045512.2	RefSeq	CDS	20659	21512	.	+	0	ID=cds-orf1ab-nsp16;Parent=gene-orf1ab;Name=nsp16;gene=orf1ab
+
+NC_045512.2	RefSeq	gene	266	13483	.	+	.	ID=gene-orf1a;Name=orf1a;gene=orf1a;gene_biotype=protein_coding
+NC_045512.2	RefSeq	CDS	266	13483	.	+	0	ID=cds-orf1a;Parent=gene-orf1a;Name=orf1a;gene=orf1a;protein_id=YP_009725295.1;Note=pp1a;product=orf1a polyprotein
+NC_045512.2	RefSeq	CDS	266	805	.	+	0	ID=cds-orf1a-nsp1;Parent=gene-orf1a;Name=nsp1;gene=orf1a
+NC_045512.2	RefSeq	CDS	806	2719	.	+	0	ID=cds-orf1a-nsp2;Parent=gene-orf1a;Name=nsp2;gene=orf1a
+NC_045512.2	RefSeq	CDS	2720	8554	.	+	0	ID=cds-orf1a-nsp3;Parent=gene-orf1a;Name=nsp3;gene=orf1a
+NC_045512.2	RefSeq	CDS	8555	10054	.	+	0	ID=cds-orf1a-nsp4;Parent=gene-orf1a;Name=nsp4;gene=orf1a
+NC_045512.2	RefSeq	CDS	10055	10972	.	+	0	ID=cds-orf1a-nsp5;Parent=gene-orf1a;Name=nsp5;gene=orf1a
+NC_045512.2	RefSeq	CDS	10973	11842	.	+	0	ID=cds-orf1a-nsp6;Parent=gene-orf1a;Name=nsp6;gene=orf1a
+NC_045512.2	RefSeq	CDS	11843	12091	.	+	0	ID=cds-orf1a-nsp7;Parent=gene-orf1a;Name=nsp7;gene=orf1a
+NC_045512.2	RefSeq	CDS	12092	12685	.	+	0	ID=cds-orf1a-nsp8;Parent=gene-orf1a;Name=nsp8;gene=orf1a
+NC_045512.2	RefSeq	CDS	12686	13024	.	+	0	ID=cds-orf1a-nsp9;Parent=gene-orf1a;Name=nsp9;gene=orf1a
+NC_045512.2	RefSeq	CDS	13025	13441	.	+	0	ID=cds-orf1a-nsp10;Parent=gene-orf1a;Name=nsp10;gene=orf1a
+NC_045512.2	RefSeq	CDS	13442	13480	.	+	0	ID=cds-orf1a-nsp11;Parent=gene-orf1a;Name=nsp11;gene=orf1a
+
+NC_045512.2	RefSeq	gene	21563	25384	.	+	.	ID=gene-S;Name=S;gene_biotype=protein_coding
+NC_045512.2	RefSeq	CDS	21563	25384	.	+	0	ID=cds-S;Parent=gene-S;Name=S;protein_id=YP_009724390.1;Note=structural protein%3B spike protein;product=surface glycoprotein
+
+NC_045512.2	RefSeq	gene	25393	26220	.	+	.	ID=gene-GU280_gp03;Dbxref=GeneID:43740569;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding;locus_tag=GU280_gp03
+NC_045512.2	RefSeq	CDS	25393	26220	.	+	0	ID=cds-YP_009724391.1;Parent=gene-GU280_gp03;Dbxref=Genbank:YP_009724391.1,GeneID:43740569;Name=YP_009724391.1;gbkey=CDS;gene=ORF3a;locus_tag=GU280_gp03;product=ORF3a protein;protein_id=YP_009724391.1
+
+NC_045512.2	RefSeq	gene	26245	26472	.	+	.	ID=gene-E;Name=E;gene=E;gene_biotype=protein_coding
+NC_045512.2	RefSeq	CDS	26245	26472	.	+	0	ID=cds-E;Parent=gene-E;Name=YP_009724392.1;gene=E
+
+NC_045512.2	RefSeq	gene	26523	27191	.	+	.	ID=gene-GU280_gp05;Dbxref=GeneID:43740571;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding;locus_tag=GU280_gp05
+NC_045512.2	RefSeq	CDS	26523	27191	.	+	0	ID=cds-YP_009724393.1;Parent=gene-GU280_gp05;Dbxref=Genbank:YP_009724393.1,GeneID:43740571;Name=YP_009724393.1;Note=ORF5%3B structural protein;gbkey=CDS;gene=M;locus_tag=GU280_gp05;product=membrane glycoprotein;protein_id=YP_009724393.1
+
+NC_045512.2	RefSeq	gene	27202	27387	.	+	.	ID=gene-GU280_gp06;Dbxref=GeneID:43740572;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding;locus_tag=GU280_gp06
+NC_045512.2	RefSeq	CDS	27202	27387	.	+	0	ID=cds-YP_009724394.1;Parent=gene-GU280_gp06;Dbxref=Genbank:YP_009724394.1,GeneID:43740572;Name=YP_009724394.1;gbkey=CDS;gene=ORF6;locus_tag=GU280_gp06;product=ORF6 protein;protein_id=YP_009724394.1
+
+NC_045512.2	RefSeq	gene	27394	27759	.	+	.	ID=gene-GU280_gp07;Dbxref=GeneID:43740573;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding;locus_tag=GU280_gp07
+NC_045512.2	RefSeq	CDS	27394	27759	.	+	0	ID=cds-YP_009724395.1;Parent=gene-GU280_gp07;Dbxref=Genbank:YP_009724395.1,GeneID:43740573;Name=YP_009724395.1;gbkey=CDS;gene=ORF7a;locus_tag=GU280_gp07;product=ORF7a protein;protein_id=YP_009724395.1
+
+NC_045512.2	RefSeq	gene	27756	27887	.	+	.	ID=gene-GU280_gp08;Dbxref=GeneID:43740574;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding;locus_tag=GU280_gp08
+NC_045512.2	RefSeq	CDS	27756	27887	.	+	0	ID=cds-YP_009725296.1;Parent=gene-GU280_gp08;Dbxref=Genbank:YP_009725296.1,GeneID:43740574;Name=YP_009725296.1;gbkey=CDS;gene=ORF7b;locus_tag=GU280_gp08;product=ORF7b;protein_id=YP_009725296.1
+
+NC_045512.2	RefSeq	gene	27894	28259	.	+	.	ID=gene-GU280_gp09;Dbxref=GeneID:43740577;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding;locus_tag=GU280_gp09
+NC_045512.2	RefSeq	CDS	27894	28259	.	+	0	ID=cds-YP_009724396.1;Parent=gene-GU280_gp09;Dbxref=Genbank:YP_009724396.1,GeneID:43740577;Name=YP_009724396.1;gbkey=CDS;gene=ORF8;locus_tag=GU280_gp09;product=ORF8 protein;protein_id=YP_009724396.1
+
+NC_045512.2	RefSeq	gene	28274	29533	.	+	.	ID=gene-GU280_gp10;Dbxref=GeneID:43740575;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding;locus_tag=GU280_gp10
+NC_045512.2	RefSeq	CDS	28274	29533	.	+	0	ID=cds-YP_009724397.2;Parent=gene-GU280_gp10;Dbxref=Genbank:YP_009724397.2,GeneID:43740575;Name=YP_009724397.2;Note=ORF9%3B structural protein;gbkey=CDS;gene=N;locus_tag=GU280_gp10;product=nucleocapsid phosphoprotein;protein_id=YP_009724397.2
+
+NC_045512.2	RefSeq	gene	29558	29674	.	+	.	ID=gene-GU280_gp11;Dbxref=GeneID:43740576;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding;locus_tag=GU280_gp11
+NC_045512.2	RefSeq	CDS	29558	29674	.	+	0	ID=cds-YP_009725255.1;Parent=gene-GU280_gp11;Dbxref=Genbank:YP_009725255.1,GeneID:43740576;Name=YP_009725255.1;gbkey=CDS;gene=ORF10;locus_tag=GU280_gp11;product=ORF10 protein;protein_id=YP_009725255.1
+
+NC_045512.2	RefSeq	three_prime_UTR	29675	29903	.	+	.	ID=id-NC_045512.2:29675..29903;gbkey=3'UTR
+###
